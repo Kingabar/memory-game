@@ -2,12 +2,16 @@
 # Game is available on 
 
 # Table of content 
- ## 1 Instruction 
- ## 2 Purpose of the website
- ## 3 Design and Layout
- ## 4 Technology
- ## 5 Deployment
- ## 6 
+ ### 1 Instruction 
+ ### 2 Purpose of the website
+ ### 3 Design and Layout
+ ### 4 Technology
+ ### 5 Deployment
+ ### 6 Validation
+ ### 7 Testing
+ ### 8 Known bugs
+ ### 9 Credits
+
  
 # 1 Instruction 
  - The objective of the game is to find all the matching pairs of cards.
@@ -57,7 +61,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
   1. In the GitHub repository, on the Code page navigate to the Environments section on the right-hand side of the page.
    Click on GitHub pages, this will take you to deployments history where you will be able to click on 'view deployment'.
-   The live link can be found here - [Link to Live Site Here](https://emidombek.github.io/darkwood/)
+   The live link can be found here - [Link to Live Site Here]()
 
   **Local Deployment**
 
@@ -78,7 +82,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
   7. Right-click on the HTML file in the Explorer sidebar and select "Open with Live Server" from the context menu or select "Go Live" from the bottom bar.
 
   8. The Live Server extension will launch a local development server and automatically open the website in your default web browser.
-
+     
+## 6 
   9. You can now interact with and test the website locally. Any changes you make to the HTML, CSS, or JavaScript files will be automatically refreshed in the browser.
 
   10. To stop the local server, simply close the browser tab displaying the website or click on the "Stop" button in the Live Server output panel.
