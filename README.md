@@ -4,6 +4,10 @@
 # Table of content 
  ## 1 Instruction 
  ## 2 Purpose of the website
+ ## 3 Design and Layout
+ ## 4 Technology
+ ## 5 Deployment
+ ## 6 
  
 # 1 Instruction 
  - The objective of the game is to find all the matching pairs of cards.
@@ -30,9 +34,51 @@ Gameplay:
  Have fun testing your memory and concentration skills!
  Challenge yourself to beat your own best time and score. 
  GOOD LUCK !!! :)
-
+ 
  # 2 Purpose of the website
   The goal of Kinga's Memory Game is to provide an enjoyable experience that challenges players' memory and concentration. 
   By finding matching pairs of cards, players can enhance their cognitive skills while having fun.
 
+# 3 Design and Layout
+ The design and layout for this website were crafted in Figma, starting from scratch. We began by creating a moodboard and wireframes to establish the game's visual style and structure. These initial steps helped shape the overall look and feel of the game.
+# Wireframes
 
+# 4 Technology
+- CSS - style sheet language used to style the webpages.
+- HTML - standard markup language.
+- Javascript - a programming language used on the client side of web applications.
+- Code Institute Repo Template - GitHub repository template used to create the repository.
+- Visual Studio Code - source code editor used to create, edit and publish the webpages with the assistance of GitHub.
+- GitHub - Git repository hosting service with a web-based graphical interface.
+- Draw.io - To design and create Wireframing.
+
+# 5 Deployment
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+  1. In the GitHub repository, on the Code page navigate to the Environments section on the right-hand side of the page.
+   Click on GitHub pages, this will take you to deployments history where you will be able to click on 'view deployment'.
+   The live link can be found here - [Link to Live Site Here](https://emidombek.github.io/darkwood/)
+
+  **Local Deployment**
+
+  *Prerequisites: Github account, Visual Studio Code, Live Server Extension for VScode.*
+
+  1. To deploy the website locally and test it on your machine, you can follow these steps:
+
+  2. Ensure you have Visual Studio Code installed on your computer. 
+
+  3. Clone the darkwood repository to your local machine using `git clone`.
+
+  4. Navigate to the root folder of the cloned repository in Visual Studio Code.
+
+  5. Locate the main HTML file that represents your website's entry index.html
+
+  6. Install the Live Server extension.
+
+  7. Right-click on the HTML file in the Explorer sidebar and select "Open with Live Server" from the context menu or select "Go Live" from the bottom bar.
+
+  8. The Live Server extension will launch a local development server and automatically open the website in your default web browser.
+
+  9. You can now interact with and test the website locally. Any changes you make to the HTML, CSS, or JavaScript files will be automatically refreshed in the browser.
+
+  10. To stop the local server, simply close the browser tab displaying the website or click on the "Stop" button in the Live Server output panel.
