@@ -83,7 +83,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
   8. The Live Server extension will launch a local development server and automatically open the website in your default web browser.
      
-## 6 
   9. You can now interact with and test the website locally. Any changes you make to the HTML, CSS, or JavaScript files will be automatically refreshed in the browser.
 
   10. To stop the local server, simply close the browser tab displaying the website or click on the "Stop" button in the Live Server output panel.
+
+## 6 Validation
