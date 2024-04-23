@@ -20,9 +20,10 @@ Gameplay:
  # Timer:
  - The timer starts as soon as you start the game.
  - Try to complete the game in the shortest time possible.
-Your time will be displayed in the "Time" section.
-New Game:
-If you want to start a new game at any point, simply click the "New Game" button.
-Enjoyment:
-Have fun testing your memory and concentration skills!
-Challenge yourself to beat your own best time and score._
+ - Your time will be displayed in the "Time" section.
+ # New Game:
+ If you want to start a new game at any point, simply click the "New Game" button.
+ # Enjoyment:
+ Have fun testing your memory and concentration skills!
+ Challenge yourself to beat your own best time and score. 
+ GOOD LUCK !!! :)
