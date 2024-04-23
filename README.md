@@ -3,7 +3,6 @@
 
 ## Table of content 
  # 1 Instruction 
- # 2 Purpose and goals of the website
  
 # 1 Instruction 
  - The objective of the game is to find all the matching pairs of cards.
@@ -31,6 +30,6 @@ Gameplay:
  Challenge yourself to beat your own best time and score. 
  GOOD LUCK !!! :)
 
-  # 2 Purpose and goals of the website
+ # 2 Purpose and goals of the website
     The goal of Kinga's Memory Game is to provide an enjoyable experience that challenges players' memory and concentration. By finding matching pairs of cards, players can enhance their cognitive skills while having fun
 
