@@ -32,6 +32,7 @@ Gameplay:
  GOOD LUCK !!! :)
 
  # 2 Purpose of the website
-    The goal of Kinga's Memory Game is to provide an enjoyable experience that challenges players' memory and concentration. 
-    By finding matching pairs of cards, players can enhance their cognitive skills while having fun.
+  The goal of Kinga's Memory Game is to provide an enjoyable experience that challenges players' memory and concentration. 
+  By finding matching pairs of cards, players can enhance their cognitive skills while having fun.
+
 
