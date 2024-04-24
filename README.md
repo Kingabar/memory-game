@@ -90,16 +90,16 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
    ![W3C](https://github.com/Kingabar/memory-game/assets/131781858/85121606-dc8f-41ec-af4e-631cdfd894c9)
    ![js test](https://github.com/Kingabar/memory-game/assets/131781858/7f249e0c-58e6-4c03-b8c1-96b0e56c51c4)
 
- ## Responsivenes
+ ## Responsivenes - Just some examples of Screen Sizes
   ### Laptops/PC
   - MacBook Air 13in
   - MacBook Pro 13in
   - Dell 24in Monitor
   - HP 24in Monitor
   <details>
-  ![1024x600 desktop](https://github.com/Kingabar/memory-game/assets/131781858/64098053-95ee-4439-81e9-553729381ae6)
-  ![1600x900 desktop](https://github.com/Kingabar/memory-game/assets/131781858/f5f73ec7-45ca-4da3-ad93-17a06d7bb16e)
-  ![1920x200 desktop](https://github.com/Kingabar/memory-game/assets/131781858/99299e60-d767-42b4-b59b-12aee8e9db86)
+   ![1024x600 desktop](https://github.com/Kingabar/memory-game/assets/131781858/64098053-95ee-4439-81e9-553729381ae6)
+   ![1600x900 desktop](https://github.com/Kingabar/memory-game/assets/131781858/f5f73ec7-45ca-4da3-ad93-17a06d7bb16e)
+   ![1920x200 desktop](https://github.com/Kingabar/memory-game/assets/131781858/99299e60-d767-42b4-b59b-12aee8e9db86)
   </details>
 
   ### Tablets
