@@ -121,7 +121,6 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
    <details>
     ![414x736 phone](https://github.com/Kingabar/memory-game/assets/131781858/8d635193-1eef-41b6-b22c-9873d47fab70)
     ![360x640 phone](https://github.com/Kingabar/memory-game/assets/131781858/a9171112-8a41-4df3-9007-d1b55594f9c5)
-    
    </details>
 
  ### Lighthouse
