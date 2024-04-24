@@ -1,4 +1,5 @@
 # memory-game
+ ![screens](https://github.com/Kingabar/memory-game/assets/131781858/6b8da69a-986d-40d6-92ec-21821ee6b74d)
 # Game is available on [link](https://kingabar.github.io/memory-game/)
 
 # Table of content 
