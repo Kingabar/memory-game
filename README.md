@@ -112,12 +112,12 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
    </details>
    
   ### Mobile Phones
-      - Samsung Galaxy S20
-      - Xiaomi Mi 11i
-      - Huawei P20 PRO
-      - Google Pixel5
-      - Google Pixel 6 PRO
-      - Xiaomi 12
+       - Samsung Galaxy S20
+       - Xiaomi Mi 11i
+       - Huawei P20 PRO
+       - Google Pixel5
+       - Google Pixel 6 PRO
+       - Xiaomi 12
    <details>
     ![414x736 phone](https://github.com/Kingabar/memory-game/assets/131781858/8d635193-1eef-41b6-b22c-9873d47fab70)
     ![360x640 phone](https://github.com/Kingabar/memory-game/assets/131781858/a9171112-8a41-4df3-9007-d1b55594f9c5)
