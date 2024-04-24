@@ -88,20 +88,41 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
  - Validation
    
  - Responsivenes
+    Laptops/PC
+     - MacBook Air 13in
+     - MacBook Pro 13in
+     - Dell 24in Monitor
+     - HP 24in Monitor
+    <details>
    ![1024x600 desktop](https://github.com/Kingabar/memory-game/assets/131781858/64098053-95ee-4439-81e9-553729381ae6)
    ![1600x900 desktop](https://github.com/Kingabar/memory-game/assets/131781858/f5f73ec7-45ca-4da3-ad93-17a06d7bb16e)
    ![1920x200 desktop](https://github.com/Kingabar/memory-game/assets/131781858/99299e60-d767-42b4-b59b-12aee8e9db86)
+    </details>
+
+   Tablets
+     - iPad Mini
+     - iPad Air 4
+     - iPad PRO 11
+     - Galaxy Tab S7
+     - Microsoft Surface Duo
+   <details>
+    ![600x960 tablet](https://github.com/Kingabar/memory-game/assets/131781858/b3f731fc-b137-47b0-a347-acf8a263a6f7)
+    ![768x1024 tablet](https://github.com/Kingabar/memory-game/assets/131781858/8f8de571-15e4-496d-9954-f471792cccfb)
+    ![800x1280 tablet](https://github.com/Kingabar/memory-game/assets/131781858/d23aedfa-9dcf-495c-a793-2879a4e11b80)
+   </details>
+  Mobile Phones 
       - Samsung Galaxy S20
       - Xiaomi Mi 11i
       - Huawei P20 PRO
-      - Huawei P30 PRO
       - Google Pixel5
-      - Oneplus Nord 2
-      - Galaxy Z Flip3
-      - OPPO Find X3 PRO
-      - Galaxy A12
       - Google Pixel 6 PRO
       - Xiaomi 12
+   <details>
+    ![414x736 phone](https://github.com/Kingabar/memory-game/assets/131781858/8d635193-1eef-41b6-b22c-9873d47fab70)
+    ![360x640 phone](https://github.com/Kingabar/memory-game/assets/131781858/a9171112-8a41-4df3-9007-d1b55594f9c5)
+    
+   </details>
+
  - Lighthouse
     <details>
    ![Lighthouse 1](https://github.com/Kingabar/memory-game/assets/131781858/1627e08f-8c53-41c8-9113-b144cf64c235)
