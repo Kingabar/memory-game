@@ -34,10 +34,6 @@ Gameplay:
  - Your time will be displayed in the "Time" section.
  ## New Game:
  If you want to start a new game at any point, simply click the "New Game" button.
- ## Enjoyment:
- Have fun testing your memory and concentration skills!
- Challenge yourself to beat your own best time and score. 
- GOOD LUCK !!! :)
  
  # 2 Purpose of the website
   The goal of Kinga's Memory Game is to provide an enjoyable experience that challenges players' memory and concentration. 
