@@ -15,7 +15,7 @@
  
 # 1 Instruction 
  - The objective of the game is to find all the matching pairs of cards.
-Gameplay:
+## Gameplay:
  1 Click on any card to reveal its symbol.
  2 Then, click on another card to try to find its matching pair.
  3 If the symbols on the two cards match, they will remain face-up.
@@ -41,8 +41,9 @@ Gameplay:
 
 # 3 Design and Layout
  The design and layout for this website were crafted in Figma, starting from scratch. We began by creating a moodboard and wireframes to establish the game's visual style and structure. These initial steps helped shape the overall look and feel of the game.
+ 
 ### Wireframes
-
+ ![wireframes](https://github.com/Kingabar/memory-game/assets/131781858/c3bec398-fb4e-40dc-b23d-dfd80e92e4df)
 
 # 4 Technology
 - CSS - style sheet language used to style the webpages.
