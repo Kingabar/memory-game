@@ -85,10 +85,10 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
   10. To stop the local server, simply close the browser tab displaying the website or click on the "Stop" button in the Live Server output panel.
 
 ## 6 Testing
- - Validation
+ ### Validation
    
  - Responsivenes
-    Laptops/PC
+    ### Laptops/PC
      - MacBook Air 13in
      - MacBook Pro 13in
      - Dell 24in Monitor
@@ -99,7 +99,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
    ![1920x200 desktop](https://github.com/Kingabar/memory-game/assets/131781858/99299e60-d767-42b4-b59b-12aee8e9db86)
     </details>
 
-   Tablets
+   ### Tablets
      - iPad Mini
      - iPad Air 4
      - iPad PRO 11
@@ -110,7 +110,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
     ![768x1024 tablet](https://github.com/Kingabar/memory-game/assets/131781858/8f8de571-15e4-496d-9954-f471792cccfb)
     ![800x1280 tablet](https://github.com/Kingabar/memory-game/assets/131781858/d23aedfa-9dcf-495c-a793-2879a4e11b80)
    </details>
-  Mobile Phones 
+   
+  ### Mobile Phones
       - Samsung Galaxy S20
       - Xiaomi Mi 11i
       - Huawei P20 PRO
@@ -123,7 +124,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
     
    </details>
 
- - Lighthouse
+ ### Lighthouse
     <details>
    ![Lighthouse 1](https://github.com/Kingabar/memory-game/assets/131781858/1627e08f-8c53-41c8-9113-b144cf64c235)
    ![Lighthouse2](https://github.com/Kingabar/memory-game/assets/131781858/1d5c11b5-e436-4f38-8090-21f29afabb81)
@@ -133,7 +134,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
    ![lighthouse6](https://github.com/Kingabar/memory-game/assets/131781858/be37e5f7-9e99-4ac7-a6c6-f662704e111f)
    ![lighthouse7](https://github.com/Kingabar/memory-game/assets/131781858/c932e413-5f5f-4438-9b4c-13d75917038d)
     </details>
- - Manual Testing
+ ### Manual Testing
 
 
 ## 7 Known Bugs
