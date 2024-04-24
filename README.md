@@ -157,7 +157,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
   - For Loops | Using For Loops to Dynamically Display HTML Elements on the Page (https://youtu.be/zIh16K8BN7k)
   - For While Loops (https://www.w3schools.com/js/js_loop_while.asp)
   - Timer resources (https://www.w3schools.com/jsref/met_win_setinterval.asp) (https://www.freecodecamp.org/news/javascript-timers-everything-you-need-to-know-5f31eaa37162/)
-
+  - Chat GPT for guidence in moments of darkness
+    
 ## 9 Future Improvements
  - Set up a database to be able to implement a leaderboard.
  - Wave Testing.
