@@ -1,5 +1,5 @@
 # memory-game
-# Game is available on 
+# Game is available on [link](https://kingabar.github.io/memory-game/)
 
 # Table of content 
  ### 1 Instruction 
