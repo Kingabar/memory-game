@@ -100,11 +100,12 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
   </details>
 
   ### Tablets
-    - iPad Mini
-    - iPad Air 4
-    - iPad PRO 11
-    - Galaxy Tab S7
-    - Microsoft Surface Duo
+   - iPad Mini
+   - iPad Air 4
+   - iPad PRO 11
+   - Galaxy Tab S7
+   - Microsoft
+   - Surface Duo
    <details>
     ![600x960 tablet](https://github.com/Kingabar/memory-game/assets/131781858/b3f731fc-b137-47b0-a347-acf8a263a6f7)
     ![768x1024 tablet](https://github.com/Kingabar/memory-game/assets/131781858/8f8de571-15e4-496d-9954-f471792cccfb)
