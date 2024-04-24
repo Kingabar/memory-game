@@ -16,11 +16,11 @@
 # 1 Instruction 
  - The objective of the game is to find all the matching pairs of cards.
 ## Gameplay:
- 1 Click on any card to reveal its symbol.
- 2 Then, click on another card to try to find its matching pair.
- 3 If the symbols on the two cards match, they will remain face-up.
- 4 If the symbols don't match, both cards will flip back over.
- 5 Keep flipping pairs of cards until you find all the matching pairs.
+  1 Click on any card to reveal its symbol.
+  2 Then, click on another card to try to find its matching pair.
+  3 If the symbols on the two cards match, they will remain face-up.
+  4 If the symbols don't match, both cards will flip back over.
+  5 Keep flipping pairs of cards until you find all the matching pairs.
 ## Rules:
  - You can only flip two cards at a time.
  - You cannot flip a card that is already face-up or a card that has already been matched.
