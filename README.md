@@ -88,30 +88,30 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
  ### Validation
    
  - Responsivenes
-    ### Laptops/PC
-     - MacBook Air 13in
-     - MacBook Pro 13in
-     - Dell 24in Monitor
-     - HP 24in Monitor
+   ### Laptops/PC
+  - MacBook Air 13in
+  - MacBook Pro 13in
+  - Dell 24in Monitor
+  - HP 24in Monitor
     <details>
    ![1024x600 desktop](https://github.com/Kingabar/memory-game/assets/131781858/64098053-95ee-4439-81e9-553729381ae6)
    ![1600x900 desktop](https://github.com/Kingabar/memory-game/assets/131781858/f5f73ec7-45ca-4da3-ad93-17a06d7bb16e)
    ![1920x200 desktop](https://github.com/Kingabar/memory-game/assets/131781858/99299e60-d767-42b4-b59b-12aee8e9db86)
     </details>
 
-   ### Tablets
-     - iPad Mini
-     - iPad Air 4
-     - iPad PRO 11
-     - Galaxy Tab S7
-     - Microsoft Surface Duo
+  ### Tablets
+    - iPad Mini
+    - iPad Air 4
+    - iPad PRO 11
+    - Galaxy Tab S7
+    - Microsoft Surface Duo
    <details>
     ![600x960 tablet](https://github.com/Kingabar/memory-game/assets/131781858/b3f731fc-b137-47b0-a347-acf8a263a6f7)
     ![768x1024 tablet](https://github.com/Kingabar/memory-game/assets/131781858/8f8de571-15e4-496d-9954-f471792cccfb)
     ![800x1280 tablet](https://github.com/Kingabar/memory-game/assets/131781858/d23aedfa-9dcf-495c-a793-2879a4e11b80)
    </details>
    
-  ### Mobile Phones
+ ### Mobile Phones
    - Samsung Galaxy S20
    - Xiaomi Mi 11i
    - Huawei P20 PRO
@@ -134,8 +134,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
   ![lighthouse7](https://github.com/Kingabar/memory-game/assets/131781858/c932e413-5f5f-4438-9b4c-13d75917038d)
   </details>
   
-  ### Manual Testing
-
+ ### Manual Testing
+  ![Manual Testing ](https://github.com/Kingabar/memory-game/assets/131781858/ca29761a-2b97-4ee8-b52a-28ed5e338014)
 
 ## 7 Known Bugs
  - Cards not flipping back when they don't match.
