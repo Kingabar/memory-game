@@ -86,9 +86,12 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 ## 6 Testing
  ### Validation
-   
- - Responsivenes
-   ### Laptops/PC
+   ![W3C css ](https://github.com/Kingabar/memory-game/assets/131781858/05b37ac0-ca1d-4679-a81d-2cde5bf19c80)
+   ![W3C](https://github.com/Kingabar/memory-game/assets/131781858/85121606-dc8f-41ec-af4e-631cdfd894c9)
+   ![js test](https://github.com/Kingabar/memory-game/assets/131781858/7f249e0c-58e6-4c03-b8c1-96b0e56c51c4)
+
+ ## Responsivenes
+  ### Laptops/PC
   - MacBook Air 13in
   - MacBook Pro 13in
   - Dell 24in Monitor
