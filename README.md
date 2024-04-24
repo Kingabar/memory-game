@@ -93,11 +93,11 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
   - MacBook Pro 13in
   - Dell 24in Monitor
   - HP 24in Monitor
-    <details>
+  <details>
    ![1024x600 desktop](https://github.com/Kingabar/memory-game/assets/131781858/64098053-95ee-4439-81e9-553729381ae6)
    ![1600x900 desktop](https://github.com/Kingabar/memory-game/assets/131781858/f5f73ec7-45ca-4da3-ad93-17a06d7bb16e)
    ![1920x200 desktop](https://github.com/Kingabar/memory-game/assets/131781858/99299e60-d767-42b4-b59b-12aee8e9db86)
-    </details>
+  </details>
 
   ### Tablets
     - iPad Mini
