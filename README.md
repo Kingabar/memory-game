@@ -138,12 +138,13 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
 
 ## 7 Known Bugs
-   Cards not flipping back when they don't match.
-   Cards remaining flipped if clicked too quickly before animation completes.
-   Timer not starting or resetting correctly.
-   New game button not resetting the game properly (timer, score, matched cards).
+ - Cards not flipping back when they don't match.
+ - Cards remaining flipped if clicked too quickly before animation completes.
+ - Timer not starting or resetting correctly.
+ - New game button not resetting the game properly (timer, score, matched cards).
 
 ## 8 Credits
+  - Big thank you to all Code institute Videos
   - For the Dynamic Card and Grid Creation in JS I used these resources to implement the ideas and changed them to fit my requirements:  
   - For Loops | Using For Loops to Dynamically Display HTML Elements on the Page (https://youtu.be/zIh16K8BN7k)
   - For While Loops (https://www.w3schools.com/js/js_loop_while.asp)
