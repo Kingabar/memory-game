@@ -125,15 +125,16 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
  ### Lighthouse
   <details>
-   ![Lighthouse 1](https://github.com/Kingabar/memory-game/assets/131781858/1627e08f-8c53-41c8-9113-b144cf64c235)
-   ![Lighthouse2](https://github.com/Kingabar/memory-game/assets/131781858/1d5c11b5-e436-4f38-8090-21f29afabb81)
-   ![Lighthouse3](https://github.com/Kingabar/memory-game/assets/131781858/4bad9e13-4fcc-4879-b6e4-14658d120cd4)
-   ![Lighthouse4](https://github.com/Kingabar/memory-game/assets/131781858/c211dadb-8c5d-4728-a529-58f9dc76dd38)
-   ![Lighthouse5](https://github.com/Kingabar/memory-game/assets/131781858/4bad3847-d4e6-4c39-a7e5-9c6b076d3eeb)
-   ![lighthouse6](https://github.com/Kingabar/memory-game/assets/131781858/be37e5f7-9e99-4ac7-a6c6-f662704e111f)
-   ![lighthouse7](https://github.com/Kingabar/memory-game/assets/131781858/c932e413-5f5f-4438-9b4c-13d75917038d)
+  ![Lighthouse 1](https://github.com/Kingabar/memory-game/assets/131781858/1627e08f-8c53-41c8-9113-b144cf64c235)
+  ![Lighthouse2](https://github.com/Kingabar/memory-game/assets/131781858/1d5c11b5-e436-4f38-8090-21f29afabb81)
+  ![Lighthouse3](https://github.com/Kingabar/memory-game/assets/131781858/4bad9e13-4fcc-4879-b6e4-14658d120cd4)
+  ![Lighthouse4](https://github.com/Kingabar/memory-game/assets/131781858/c211dadb-8c5d-4728-a529-58f9dc76dd38)
+  ![Lighthouse5](https://github.com/Kingabar/memory-game/assets/131781858/4bad3847-d4e6-4c39-a7e5-9c6b076d3eeb)
+  ![lighthouse6](https://github.com/Kingabar/memory-game/assets/131781858/be37e5f7-9e99-4ac7-a6c6-f662704e111f)
+  ![lighthouse7](https://github.com/Kingabar/memory-game/assets/131781858/c932e413-5f5f-4438-9b4c-13d75917038d)
   </details>
- ### Manual Testing
+  
+  ### Manual Testing
 
 
 ## 7 Known Bugs
