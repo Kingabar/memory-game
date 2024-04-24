@@ -41,7 +41,8 @@ Gameplay:
 
 # 3 Design and Layout
  The design and layout for this website were crafted in Figma, starting from scratch. We began by creating a moodboard and wireframes to establish the game's visual style and structure. These initial steps helped shape the overall look and feel of the game.
-# Wireframes
+### Wireframes
+
 
 # 4 Technology
 - CSS - style sheet language used to style the webpages.
