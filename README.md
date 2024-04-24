@@ -7,10 +7,10 @@
  ### 3 Design and Layout
  ### 4 Technology
  ### 5 Deployment
- ### 6 Validation
- ### 7 Testing
- ### 8 Known bugs
- ### 9 Credits
+ ### 6 Testing
+ ### 7 Known bugs
+ ### 8 Credits
+ ### 9 Future Improvements
 
  
 # 1 Instruction 
@@ -87,4 +87,29 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 
   10. To stop the local server, simply close the browser tab displaying the website or click on the "Stop" button in the Live Server output panel.
 
-## 6 Validation
+## 6 Testing
+ - Validation
+   
+ - Responsivenes
+   
+ - Lighthouse
+   
+ - Manual Testing
+
+
+## 7 Known Bugs
+   Cards not flipping back when they don't match.
+   Cards remaining flipped if clicked too quickly before animation completes.
+   Timer not starting or resetting correctly.
+   New game button not resetting the game properly (timer, score, matched cards).
+
+## 8 Credits
+  - For the Dynamic Card and Grid Creation in JS I used these resources to implement the ideas and changed them to fit my requirements:  
+  - For Loops | Using For Loops to Dynamically Display HTML Elements on the Page (https://youtu.be/zIh16K8BN7k)
+  - For While Loops (https://www.w3schools.com/js/js_loop_while.asp)
+  - Timer resources (https://www.w3schools.com/jsref/met_win_setinterval.asp) (https://www.freecodecamp.org/news/javascript-timers-everything-you-need-to-know-5f31eaa37162/)
+
+## 9 Future Improvements
+ - Set up a database to be able to implement a leaderboard.
+ - Wave Testing.
+ - Reduction of cards based on screen-size to improve responsiveness.
