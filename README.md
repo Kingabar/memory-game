@@ -159,6 +159,8 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
   - Chat GPT for guidence in moments of darkness
     
 ## 9 Future Improvements
+ - Move css, js and pictures into assets file.
  - Set up a database to be able to implement a leaderboard.
  - Wave Testing.
  - Reduction of cards based on screen-size to improve responsiveness.
+
