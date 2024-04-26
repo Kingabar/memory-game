@@ -145,6 +145,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
   ![Manual Testing ](https://github.com/Kingabar/memory-game/assets/131781858/ca29761a-2b97-4ee8-b52a-28ed5e338014)
 
 ## 7 Known Bugs
+ - Game might freez if cards are clicking too fast.
  - Cards not flipping back when they don't match.
  - Cards remaining flipped if clicked too quickly before animation completes.
  - Timer not starting or resetting correctly.
